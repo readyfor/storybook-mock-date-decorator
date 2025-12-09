@@ -1,12 +1,12 @@
 {
-  "name": "storybook-mock-date-decorator",
-  "author": "bitttttten",
-  "version": "3.0.0",
+  "name": "@readyfor/storybook-mock-date-decorator",
+  "author": "readyfor",
+  "version": "1.0.0",
   "description": "Storybook MockDate decorator",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitttttten/storybook-mock-date-decorator.git"
+    "url": "https://github.com/readyfor/storybook-mock-date-decorator.git"
   },
   "keywords": [
     "storybook-addon",
@@ -105,7 +105,7 @@
     ],
     "icon": "https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png"
   },
-  "packageManager": "pnpm@10.0.0",
+  "packageManager": "pnpm@10.25.0",
   "pnpm": {
     "onlyBuiltDependencies": [
       "esbuild"
