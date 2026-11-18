@@ -1,0 +1,50 @@
+# v1.0.2 (Wed Nov 18 2026)
+
+#### 🐛 Bug Fix
+
+- Node を 26.13.1 に上げる [#5](https://github.com/readyfor/storybook-mock-date-decorator/pull/5) ([@s-mori](https://github.com/s-mori))
+- [ci skip] サードパーティ GitHub Actions を commit SHA でピン留め [#4](https://github.com/readyfor/storybook-mock-date-decorator/pull/4) ([@KazuyaMiyagi](https://github.com/KazuyaMiyagi))
+- Takumi Guard を pnpm に導入する [#2](https://github.com/readyfor/storybook-mock-date-decorator/pull/2) ([@KazuyaMiyagi](https://github.com/KazuyaMiyagi))
+- chore: Node.js 24 と pnpm 10 に更新（OIDC 対応） [#1](https://github.com/readyfor/storybook-mock-date-decorator/pull/1) ([@kotarella1110](https://github.com/kotarella1110))
+
+#### ⚠️ Pushed to `main`
+
+- Fork し、パッケージ名を @readyfor/storybook-mock-date-decorator に変更しバージョンを 1.0.0 にリセット ([@mosmos21](https://github.com/mosmos21))
+- feat: Port to Storybook 10 and align on addon-kit tooling ([@Sidnioulz](https://github.com/Sidnioulz))
+- 2.0.6 ([@bitttttten](https://github.com/bitttttten))
+- docs: add link to repo ([@bitttttten](https://github.com/bitttttten))
+- docs: remove confusing double date ([@bitttttten](https://github.com/bitttttten))
+- docs: full example for v8 ([@bitttttten](https://github.com/bitttttten))
+- 2.0.5 ([@bitttttten](https://github.com/bitttttten))
+- docs: prep for 2.0.5 ([@bitttttten](https://github.com/bitttttten))
+- fix: decorator import ([@bitttttten](https://github.com/bitttttten))
+- 2.0.4 ([@bitttttten](https://github.com/bitttttten))
+- docs: slightly better types ([@bitttttten](https://github.com/bitttttten))
+- 2.0.3 ([@bitttttten](https://github.com/bitttttten))
+- docs: update docs and types for v8 and add jsdoc ([@bitttttten](https://github.com/bitttttten))
+- 2.0.2 ([@bitttttten](https://github.com/bitttttten))
+- ci: prepare 2.0.2 ([@bitttttten](https://github.com/bitttttten))
+- Update decorator.js ([@jipis](https://github.com/jipis))
+- 2.0.1 ([@bitttttten](https://github.com/bitttttten))
+- docs: add comments on types ([@bitttttten](https://github.com/bitttttten))
+- 2.0.0 ([@bitttttten](https://github.com/bitttttten))
+- ci: prepare for v2.0.0 ([@bitttttten](https://github.com/bitttttten))
+- fix: add in support for v6/v7 and also v8 ([@bitttttten](https://github.com/bitttttten))
+- Update index.js ([@Kwintijn](https://github.com/Kwintijn))
+- v1.0.2 ([@bitttttten](https://github.com/bitttttten))
+- Move @storybook/addons to peer dependencies ([@fernandopasik](https://github.com/fernandopasik))
+- types: reference tyoes in package.json ([@bitttttten](https://github.com/bitttttten))
+- docs: update note about v7 ([@bitttttten](https://github.com/bitttttten))
+- init 👻 ([@bitttttten](https://github.com/bitttttten))
+
+#### Authors: 9
+
+- [@bitttttten](https://github.com/bitttttten)
+- [@Kwintijn](https://github.com/Kwintijn)
+- [@s-mori](https://github.com/s-mori)
+- Fernando Pasik ([@fernandopasik](https://github.com/fernandopasik))
+- Jonathan ([@jipis](https://github.com/jipis))
+- Kazuya Miyagi ([@KazuyaMiyagi](https://github.com/KazuyaMiyagi))
+- Kotaro Sugawara ([@kotarella1110](https://github.com/kotarella1110))
+- Steve Dodier-Lazaro ([@Sidnioulz](https://github.com/Sidnioulz))
+- Takahito Hashimoto ([@mosmos21](https://github.com/mosmos21))
